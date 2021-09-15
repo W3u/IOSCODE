@@ -1,0 +1,13 @@
+D:\00.Projects\IOSCODE\bin\Debug\netcoreapp3.1\IOSCODE.exe
+D:\00.Projects\IOSCODE\bin\Debug\netcoreapp3.1\IOSCODE.deps.json
+D:\00.Projects\IOSCODE\bin\Debug\netcoreapp3.1\IOSCODE.runtimeconfig.json
+D:\00.Projects\IOSCODE\bin\Debug\netcoreapp3.1\IOSCODE.runtimeconfig.dev.json
+D:\00.Projects\IOSCODE\bin\Debug\netcoreapp3.1\IOSCODE.dll
+D:\00.Projects\IOSCODE\bin\Debug\netcoreapp3.1\IOSCODE.pdb
+D:\00.Projects\IOSCODE\obj\Debug\netcoreapp3.1\IOSCODE.csprojAssemblyReference.cache
+D:\00.Projects\IOSCODE\obj\Debug\netcoreapp3.1\IOSCODE.AssemblyInfoInputs.cache
+D:\00.Projects\IOSCODE\obj\Debug\netcoreapp3.1\IOSCODE.AssemblyInfo.cs
+D:\00.Projects\IOSCODE\obj\Debug\netcoreapp3.1\IOSCODE.csproj.CoreCompileInputs.cache
+D:\00.Projects\IOSCODE\obj\Debug\netcoreapp3.1\IOSCODE.dll
+D:\00.Projects\IOSCODE\obj\Debug\netcoreapp3.1\IOSCODE.pdb
+D:\00.Projects\IOSCODE\obj\Debug\netcoreapp3.1\IOSCODE.genruntimeconfig.cache
